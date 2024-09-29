@@ -9,6 +9,8 @@ To achieve these ports, I am using Wineskin as the foundational tool to facilita
 More details on Wineskin can be found in the official repository:
 - WineskinServer by Gcenx. https://github.com/Gcenx/WineskinServer
 
+Note on Compatibility: Achieving these ports is generally more straightforward on Intel-based MacBooks, as they share a similar architecture with Windows PCs, making the process of running Windows applications through emulation or translation layers more efficient. For MacBooks with Apple Silicon (M1, M2), additional layers like Rosetta 2 or alternative solutions may be required, but these systems can still be supported with the appropriate adjustments.
+
 Additionally, various add-ons and configurations may be required to ensure the proper functioning of the ported applications.
 
 If a similar project already exists or if you have relevant expertise, I encourage you to reach out. 
