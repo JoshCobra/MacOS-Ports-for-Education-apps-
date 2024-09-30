@@ -1,5 +1,7 @@
 # MacOS-Ports-for-Education-apps-
 
+### - Check The Releases Section
+
 The aim of this repository is to port educational applications from Windows to MacOS, focusing on software that is either 
 unavailable natively for MacOS or performs better in a Windows environment. 
 These efforts are targeted at improving access to essential educational tools for MacOS users.
