@@ -25,4 +25,13 @@ I do not claim ownership of any of the software or archives used in this project
 This project is purely for educational purposes, and all software remains the property of their respective owners.
 Please ensure that you use appropriate licenses, keys, and activation codes where required.
 
+### Components that fall under LGPL-2.1 license
+
+`Wineskin Winery.app`
+`Wineskin.app`
+`wineskinlauncher`
+
+The license is kept the same as the original material as LGPL 2.1. You can find more details in the [LICENSE](https://github.com/JoshCobra/MacOS-Ports-for-Education-apps-/blob/main/LICENSE) file.
+
+
 
