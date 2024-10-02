@@ -13,4 +13,7 @@ Issues Encountered: One major problem I’ve noticed is with some of the program
 file system sometimes makes these paths inaccessible, as though the system is preventing the correct selection or access through the file browser. 
 Despite the libraries being present, MacOS doesn't allow the selection of the correct path, almost as if it’s deliberately blocking access.
 
-## Instructions to Instalation
+## Instructions to Installation
+
+- Create the Wrapper using wineskin (recommended version WineskinCX 23.7.1)
+- Navigate to your Proteus 8 Installer for this I'm using the Proteus 8.13 Version
