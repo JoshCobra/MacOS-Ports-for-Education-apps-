@@ -11,9 +11,9 @@ To achieve these ports, I am using Wineskin as the foundational tool to facilita
 More details on Wineskin can be found in the official repository:
 - WineskinServer by Gcenx. https://github.com/Gcenx/WineskinServer
 
-Note on Compatibility: Achieving these ports is generally more straightforward on Intel-based MacBooks, as they share a similar architecture with Windows PCs, making the process of running Windows applications through emulation or translation layers more efficient. For MacBooks with Apple Silicon (M1, M2), additional layers like Rosetta 2 or alternative solutions may be required, but these systems can still be supported with the appropriate adjustments.
+**Note on Compatibility:** Achieving these ports is generally more straightforward on Intel-based MacBooks, as they share a similar architecture with Windows PCs, making the process of running Windows applications through emulation or translation layers more efficient. For MacBooks with Apple Silicon (M1, M2), additional layers like Rosetta 2 or alternative solutions may be required, but these systems can still be supported with the appropriate adjustments.
 
-Windows-Only Packages: Some Windows applications require specific libraries or frameworks, such as .NET, which may not be as easily accessible for download as they once were. However, these packages are still essential for the proper functioning of many educational tools. In such cases, alternative methods to obtain and integrate these components into the MacOS environment can be used. These frameworks can typically be installed manually or through third-party solutions to ensure compatibility.
+**Windows-Only Packages:** Some Windows applications require specific libraries or frameworks, such as .NET, which may not be as easily accessible for download as they once were. However, these packages are still essential for the proper functioning of many educational tools. In such cases, alternative methods to obtain and integrate these components into the MacOS environment can be used. These frameworks can typically be installed manually or through third-party solutions to ensure compatibility.
 
 Additionally, various add-ons and configurations may be required to ensure the proper functioning of the ported applications.
 
