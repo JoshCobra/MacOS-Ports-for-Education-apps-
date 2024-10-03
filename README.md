@@ -15,7 +15,7 @@ More details on Wineskin can be found in the official repository:
 
 **Windows-Only Packages:** Some Windows applications require specific libraries or frameworks, such as .NET, which may not be as easily accessible for download as they once were. However, these packages are still essential for the proper functioning of many educational tools. In such cases, alternative methods to obtain and integrate these components into the MacOS environment can be used. These frameworks can typically be installed manually or through third-party solutions to ensure compatibility.
 
-Additionally, various add-ons and configurations may be required to ensure the proper functioning of the ported applications.
+Additionally, various add-ons and configurations may be required to ensure the proper functioning of the ported applications, for this applications i will mention on its exclusive realease section.
 
 If a similar project already exists or if you have relevant expertise, I encourage you to reach out. 
 I am open to collaboration or, if necessary, ensuring proper attribution of existing work.
