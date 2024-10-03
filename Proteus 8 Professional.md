@@ -37,7 +37,7 @@ I'm currently working on porting Proteus 8 Professional to MacOS. I’ve success
       - Select the `Advanced` tab and then `Winetricks`
         ![Advanced](https://github.com/user-attachments/assets/ab02c5a8-c603-4d46-a6a0-c96dbc35cbbc)
 
-      - Open the `settings` tab, search for the `vidememorysize=4` and hit run, you should get:
+      - Open the `settings` tab, search for the `vidememorysize=4`, and hit run, you should get:
         ```
         Executing load_videomemorysize 4096
         Setting video memory size to 4096
@@ -45,6 +45,13 @@ I'm currently working on porting Proteus 8 Professional to MacOS. I’ve success
         Executing wine C:\windows\regedit.exe /S C:\windows\Temp\set-video.reg
         ```
         ![Executing load_videomemorysize 4096](https://github.com/user-attachments/assets/28325550-62a4-4e65-95e9-2a265c75d41e)
-
       - Close and `test run`
-        
+6. You now should have the program running correctly
+        ![Runnin Program](https://github.com/user-attachments/assets/5606b9b6-efbe-4105-a961-7479e055920c)
+
+### Limitations
+
+I've encountered some limitations of power, when loading big projects it freezes, making it hard to work on
+and also with the inputs from the Mac, like the touchpad not working as expected.
+- If you find more issues, pls commit and feel free to contribute to this port.
+
