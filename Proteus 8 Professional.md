@@ -53,5 +53,6 @@ I'm currently working on porting Proteus 8 Professional to MacOS. I’ve success
 
 I've encountered some limitations of power, when loading big projects it freezes, making it hard to work on
 and also with the inputs from the Mac, like the touchpad not working as expected.
-- If you find more issues, pls commit and feel free to contribute to this port.
+- If you find more issues, pls post them in the `issues` tab
+- commit and feel free to contribute to this port.
 
