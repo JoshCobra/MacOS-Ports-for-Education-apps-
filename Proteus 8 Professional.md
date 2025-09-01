@@ -13,6 +13,8 @@ I'm currently working on porting Proteus 8 Professional to MacOS. I’ve success
    - The Proteus 8 Installer usually comes with these installations   
   
 - Create the Wrapper using wineskin (recommended version WineskinCX 23.7.1)
+- **New Wrapper Version Recommended 2025: WS12WineCX64Bit23.7.1-4_D3DMetal-v1.1**
+  In this new version .NET libraries are avalible to install normally again like it is on the windows version, **Tested on MacOS Sequoia 15.6.1**
   
 - .NET libraries might be required for the application to work properly, especially since the latest versions of .NET are no longer readily available through Wineskin services, so I’ve extracted the necessary files from a Windows device as well: `C:\Program Files (x86)\Microsoft.NET`
    - Put these libraries on:
